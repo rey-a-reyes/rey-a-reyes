@@ -1,5 +1,9 @@
 # Portfolio
-[Contribution guidelines for this project](docs/Aboutme.md)
+- About me
+- CV
+- Tools
+- Courses
+
 
 # About me
 
