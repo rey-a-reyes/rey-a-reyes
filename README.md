@@ -3,16 +3,17 @@
 - [CV](#CV)
 - [Tools](#Tools)
 - [Courses](#Courses)
-
+- [Example of my work](#Example-of-my-work)
 
 # About me
-
 
 # CV
 
 # Tools
 
 # Courses
+
+# Example of my work
 
 
 
