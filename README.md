@@ -1,8 +1,8 @@
 # Portfolio
-- About me
-- CV
-- Tools
-- Courses
+- [About me](# About me)
+- [CV](# CV)
+- [Tools](# Tools)
+- [Courses](# Courses)
 
 
 # About me
