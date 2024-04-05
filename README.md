@@ -14,7 +14,7 @@ I got my Bachelor of Science in Information Technology Degree from [STI College]
 
 # Resume
 
-You can download my [Resume as a Doc from my Google Drive ](https://docs.google.com/document/d/1_SZCbZ1fEZcGh9vWp4ovdlu9uvLY-4TqMZeUP8Tr_QQ/edit?usp=sharing)
+You can download my Resume [as a Doc from my Google Drive ](https://docs.google.com/document/d/1_SZCbZ1fEZcGh9vWp4ovdlu9uvLY-4TqMZeUP8Tr_QQ/edit?usp=sharing)
 
 # Tools
 
