@@ -22,6 +22,32 @@ You can download my Resume [as a Doc from my Google Drive ](https://docs.google.
 You can find examples of the described skills in the [Examples of my work](#Example-of-my-work) section.
 
 # Tools
+TestRail
+
+    know how to create test cases and test suits
+    able to run created test cases
+    know how to use dashboards and statistics
+
+Jira
+
+    know how to create bug reports
+    able to create projects and track their progress
+
+SoapUI
+
+Browser developer tools
+
+VirtualBox
+
+    able to set up and operate virtual machines
+
+Trello and Notion
+
+    know how to use Kanban boards and track project progress
+
+Mind maps & diagrams
+
+    know how to design beautifully simple mind maps
 
 # Courses
 
@@ -33,18 +59,3 @@ You can find examples of the described skills in the [Examples of my work](#Exam
 
 
 
-
-<!--
-**rey-a-reyes/rey-a-reyes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
