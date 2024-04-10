@@ -28,24 +28,24 @@ know how to create test cases and test suits
 able to run created test cases
 know how to use dashboards and statistics
 
-###Jira
+### Jira
 
 know how to create bug reports
 able to create projects and track their progress
 
-###SoapUI
+### SoapUI
 
 Browser developer tools
 
-###VirtualBox
+### VirtualBox
 
 able to set up and operate virtual machines
 
-###Trello and Notion
+### Trello and Notion
 
 know how to use Kanban boards and track project progress
 
-###Mind maps & diagrams
+### Mind maps & diagrams
 
 know how to design beautifully simple mind maps
 
