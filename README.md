@@ -1,6 +1,7 @@
 # Portfolio
 - [About me](#About-me)
 - [Resume](#Resume)
+- [Tools](#Skills)
 - [Tools](#Tools)
 - [Courses](#Courses)
 - [Example of my work](#Example-of-my-work)
@@ -16,6 +17,8 @@ Now, I wish to exploit my research and analytical skills in software testing. Cu
 # Resume
 
 You can download my Resume [as a Doc from my Google Drive ](https://docs.google.com/document/d/1_SZCbZ1fEZcGh9vWp4ovdlu9uvLY-4TqMZeUP8Tr_QQ/edit?usp=sharing)
+
+# Skills
 
 # Tools
 
