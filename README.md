@@ -19,6 +19,7 @@ Now, I wish to exploit my research and analytical skills in software testing. Cu
 You can download my Resume [as a Doc from my Google Drive ](https://docs.google.com/document/d/1_SZCbZ1fEZcGh9vWp4ovdlu9uvLY-4TqMZeUP8Tr_QQ/edit?usp=sharing)
 
 # Skills
+You can find examples of the described skills in the [Examples of my work](#Example-of-my-work) section.
 
 # Tools
 
