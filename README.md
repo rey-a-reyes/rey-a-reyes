@@ -56,7 +56,7 @@ SQL databases
 
 # Tools
 - **Github**
-- **[Jira](https://www.atlassian.com/software/jira)**/**[Trello](https://trello.com/home)**
+- **[Jira](https://www.atlassian.com/software/jira)** , **[Trello](https://trello.com/home)** - project management
 
 - 
 - **Github**
