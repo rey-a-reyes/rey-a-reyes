@@ -1,7 +1,7 @@
 # Portfolio
 - [About me](#About-me)
 - [Resume](#Resume)
-- [Tools](#Skills)
+- [Skills](#Skills)
 - [Tools](#Tools)
 - [Courses](#Courses)
 - [Example of my work](#Example-of-my-work)
