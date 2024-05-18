@@ -31,7 +31,8 @@ You can find examples of the described skills in the [Examples of my work](#Exam
 # Courses
 
 # Example of my work
-  # API Testing
+
+**API Testing**
   
 
 
