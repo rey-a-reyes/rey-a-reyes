@@ -22,10 +22,18 @@ You can download my Resume [as a Doc from my Google Drive ](https://docs.google.
 You can find examples of the described skills in the [Examples of my work](#Example-of-my-work) section.
 
 # Tools
+**Manual testing**
+- can perform manual functional and usability testing of web applications
+- gained hands-on experience by testing applications created for educational purposes
+
+**Github**
+
 **Github**
 - Create Repository
 - Merge Repository
 - Handle Repository
+**Github**
+
 
 
 # Courses
