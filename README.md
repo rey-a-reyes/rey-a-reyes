@@ -56,7 +56,7 @@ SQL databases
 
 # Tools
 - **Github**
-- **[Radiant Global HD Inc](https://ph.indeed.com/cmp/Radiant-Global-Hd-Inc.-1/about](https://www.atlassian.com/software/jira))**
+- **[Jira](https://www.atlassian.com/software/jira)**/**[Trello](https://trello.com/home)**
 
 - 
 - **Github**
