@@ -59,9 +59,7 @@ SQL databases
 - [Jira](https://www.atlassian.com/software/jira) , [Trello](https://trello.com/home) - project management
 - [Github](https://github.com/) 
 - [Postman](https://www.postman.com/product/what-is-postman/)
-- 
-- **Github**
-
+- [Visual Studio Code](https://code.visualstudio.com/) - polishing HTML, CSS, JS, PHP,  
 
 
 
