@@ -67,9 +67,6 @@ SQL databases
 
 # Example of my work
 
-**Test Cases and work in API Testing**
-- 
-  
 
 
 
