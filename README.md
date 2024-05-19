@@ -58,7 +58,7 @@ SQL databases
 - **Github**
 - [Jira](https://www.atlassian.com/software/jira) , [Trello](https://trello.com/home) - project management
 - [Github](https://github.com/) 
-- [Github](https://github.com/)
+- [Postman](https://www.postman.com/product/what-is-postman/)
 - 
 - **Github**
 
