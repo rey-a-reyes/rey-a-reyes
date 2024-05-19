@@ -55,7 +55,7 @@ SQL databases
  --->
 
 # Tools
-- [Jira](https://www.atlassian.com/software/jira) , [Trello](https://trello.com/home) , [Trello](https://marketplace.atlassian.com/apps/1213259/zephyr-scale-test-management-for-jira?tab=overview&hosting=cloud) - project management
+- [Jira](https://www.atlassian.com/software/jira) , [Trello](https://trello.com/home) , [Zephyr Scale](https://marketplace.atlassian.com/apps/1213259/zephyr-scale-test-management-for-jira?tab=overview&hosting=cloud) - project management
 - [Github](https://github.com/) 
 - [Postman](https://www.postman.com/product/what-is-postman/)
 - [Visual Studio Code](https://code.visualstudio.com/) - polishing HTML, CSS, JS, PHP,  
